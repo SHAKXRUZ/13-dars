@@ -1,0 +1,20 @@
+.login {
+    width: 500px;
+    height: 500px;
+    background-color: dodgerblue;
+    position: absolute;
+    z-index: 5;
+
+}
+
+.overflow {
+    width: 100vw;
+    height: 100vh;
+    background-color: #0000006f;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
